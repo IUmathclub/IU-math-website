@@ -4,7 +4,7 @@ logo:             IU.png
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://tzakian.github.io/IU-math-website/
+url:              tzakian.github.io/IU-math-website/
 
 # Owner/author information
 owner:
