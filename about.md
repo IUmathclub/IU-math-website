@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+title: About Math Club
+tags: [About, Math Club]
 modified: 2013-09-13
 image:
   feature: mathclub.jpg
