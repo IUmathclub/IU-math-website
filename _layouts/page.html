@@ -9,7 +9,9 @@
 
 <body id="page" itemscope itemtype="http://schema.org/WebPage">
 
+{% if not page.image.feature %}
 {% include navigation.html %}
+{% endif %}
 
 <div id="main" role="main" itemprop="mainContentOfPage">
   <article class="entry" itemscope>
