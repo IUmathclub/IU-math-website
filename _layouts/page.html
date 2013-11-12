@@ -7,10 +7,12 @@
 {% include head.html %}
 </head>
 
-<body id="page" itemscope itemtype="http://schema.org/WebPage">
 
-{% if not page.image.feature %}
-{% include navigation.html %}
+{% if page.image.feature %}
+<body id="page" itemscope itemtype="http://schema.org/WebPage">
+{% else %}
+<body id="page" itemscope itemtype="http://schema.org/WebPage">
+    {% include navigation.html %}
 {% endif %}
 
 <div id="main" role="main" itemprop="mainContentOfPage">
