@@ -38,7 +38,7 @@ links:
   - title: Talks
     url: /talks
   - title: Resources
-    url: /foo
+    url: /resources
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
