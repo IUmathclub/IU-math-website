@@ -33,12 +33,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Talks
     url: /talks
+  - title: About
+    url: /about
   - title: Resources
     url: /resources
+  - title: Calendar
+    url: /calendar
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
