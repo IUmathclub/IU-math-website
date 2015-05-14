@@ -27,4 +27,5 @@ in measuring the initial conditions. I will discuss an easily verifiable
 condition on the derivatives of $~f$ (in the case of a three times
 differentiable unimodal map $~f$) that will guarantee sensitive dependence on initial conditions. 
 Math M211 is the only prerequisite for this talk.
+FOO FOO FOO FOO
 
