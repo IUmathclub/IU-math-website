@@ -1,0 +1,13 @@
+---
+layout: post
+title: I'm seeing if I can get this thing to work
+description: "I'm CEO,..."
+category: articles
+tags: [Math, Physics for the win]
+comments: true  
+---
+
+{% include default.html %}
+Here is my attempt to use LaTeX.
+$\int_a^b f(x) \, dx = F(b)-F(a)$.
+FOO.
