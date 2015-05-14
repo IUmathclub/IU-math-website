@@ -7,5 +7,5 @@ modified: 2013-09-11
 tags: [Jekyll, theme, install, setup]
 ---
 
-REUs: 
-Research:
+* REUs: 
+* Research:
